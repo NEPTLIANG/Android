@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="match_parent"
+	android:gravity="bottom|left"
+	android:background="@drawable/image_2">
+
+	<LinearLayout
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:orientation="vertical"
+		android:gravity="bottom|left">
+
+		<LinearLayout
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:orientation="horizontal"
+			android:layout_marginLeft="25dp"
+			android:layout_marginRight="25dp">
+
+			<LinearLayout
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:orientation="horizontal">
+
+				<ImageView
+					android:layout_height="64dp"
+					android:layout_width="64dp"
+					android:orientation="horizontal"
+					android:src="@drawable/image_5"/>
+
+				<LinearLayout
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:orientation="vertical"
+					android:layout_marginLeft="10dp">
+
+					<TextView
+						android:layout_height="wrap_content"
+						android:text="MING"
+						android:textAppearance="?android:attr/textAppearanceLarge"
+						android:layout_width="wrap_content"
+						android:textColor="#FFFFFF"
+						android:textSize="40sp"/>
+
+					<TextView
+						android:layout_height="wrap_content"
+						android:text="Everything is based on MIUI"
+						android:textAppearance="?android:attr/textAppearanceSmall"
+						android:layout_width="wrap_content"
+						android:textColor="#FFFFFF"
+						android:textSize="10sp"/>
+
+				</LinearLayout>
+
+			</LinearLayout>
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:orientation="vertical"
+			android:layout_marginLeft="25dp"
+			android:layout_marginRight="25dp"
+			android:layout_marginBottom="30dp"
+			android:layout_marginTop="5dp">
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:text="QQ 916616515"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_width="wrap_content"
+				android:textSize="20sp"
+				android:textColor="#FFFFFF"/>
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:text="MING6950X@OUTLOOK.COM"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_width="wrap_content"
+				android:textSize="20sp"
+				android:textColor="#FFFFFF"
+				android:layout_marginTop="5dp"/>
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:text="HTTPS://MY.OSCHINA.NET/MINGx86"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_width="wrap_content"
+				android:textColor="#FFFFFF"
+				android:layout_marginTop="5dp"/>
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:text="Android Bar    Graphics Card Bar    Tualatin Bar    S899t Bar    bat Bar    Android X86 Bar"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="wrap_content"
+				android:textColor="#FFFFFF"
+				android:textSize="10sp"
+				android:layout_marginTop="20dp"/>
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:text="ANDROID大法好 NVIDIA大法好 AMD大法好 CYANOGENMOD大法好 Tualatin大法好 .bat大法好 ANDROID X86大法好 UBUNTU LINUX大法好 WIN10大法好 WIN10M大法好 WIN98大法好 WIN3.2大法好 775大法好 1366大法好"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_width="wrap_content"
+				android:textColor="#FFFFFF"
+				android:textSize="10sp"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+</LinearLayout>
+
